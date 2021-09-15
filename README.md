@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My Name is Uday
+
+🌱 I’m currently learning ML in Python
+🏢 I will be working at Amazon when I graduate as a Software Engineer
+⚡ Fun fact: I enjoy riding motorcycles
+
+
 
 <!--
 **SharmaUday1999/sharmauday1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
