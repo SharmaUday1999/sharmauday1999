@@ -1,7 +1,9 @@
 ### Hi there 👋 My Name is Uday
 
 🌱 I’m currently learning ML in Python
-🏢 I will be working at Amazon when I graduate as a Software Engineer
+
+🏢 I will be working at Amazon when I graduate as a Software Development Engineer
+
 ⚡ Fun fact: I enjoy riding motorcycles
 
 
