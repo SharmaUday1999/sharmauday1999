@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning ML in Python
 
-🏢 I will be working at Facebook when I graduate as a Software Engineer
+🏢 I will be working at Meta when I graduate as a Software Engineer
 
 ⚡ Fun fact: I enjoy riding motorcycles
 
